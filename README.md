@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍🎓 Lenny Bondoux
 
-<!--
-**LennyBdx/LennyBdx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant passionné par le développement web et logiciel  
+💻 Actuellement en alternance avec une stack **Spring Boot** / **Angular**  
+🚀 Je suis motivé pour apprendre et contribuer à des projets open source  
+🔍 Je m'intéresse aussi à **NestJS**, **React**, **React Native** et **Docker**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Compétences
+
+- 🖌️ HTML / CSS  
+- 💡 JavaScript / TypeScript  
+- 🧠 Java / Spring Boot  
+- 🎨 Angular  
+- 🔧 PHP  
+
+---
+
+## 📫 Me contacter
+
+- 📧 Email : [Lenny.bondouxx@gmail.com](mailto:Lenny.bondouxx@gmail.com)  
+- 💼 LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/lennybondoux/)
+
+---
+
+> Merci de visiter mon profil GitHub ! 😊
