@@ -13,7 +13,9 @@
 - 💡 JavaScript / TypeScript  
 - 🧠 Java / Spring Boot  
 - 🎨 Angular  
-- 🔧 PHP  
+- 🔧 PHP
+- 💻 C#
+- 🧪 Playwright
 
 ---
 
